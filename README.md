@@ -3,8 +3,8 @@
 <p align="left">
   <a href="https://www.hbs.edu" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/rynmlng/rynmlng/master/icons/hbs-original.svg"
-      alt="HBS"
+      src="https://raw.githubusercontent.com/rynmlng/rynmlng/master/icons/hbs-shield.svg"
+      alt="hbs"
       width="40"
       height="40"
     />
