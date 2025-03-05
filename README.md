@@ -8,8 +8,7 @@
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.northeastern.edu" target="_blank">
+  </a><a href="https://www.northeastern.edu" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rynmlng/rynmlng/master/icons/nu-seal.svg"
       alt="nu"
@@ -35,21 +34,21 @@
   </a>
   <a href="https://www.djangoproject.com" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
       alt="django"
       height="40"
     />
   </a>
   <a href="https://golang.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg"
       alt="go"
       height="40"
     />
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
       width="40"
       height="40"
@@ -61,7 +60,7 @@
 - 👨‍⚖️ I enjoy building and managing Engineering teams at software companies
 - 🌱 I spend time in and out of work mentoring Engineers
 - ⚡ I enjoy coding when I have free time in 🐍 Python or 🦔 Go
-- 🏸 My hobbies are 🌲 woodworking, 🤽‍♂️ gold panning, 🎴 Texas Hold 'Em, and in general being ⛺ outdoors
+- 🏸 My hobbies are 🌲 Woodworking, 🥘 Cooking, 🎴 Texas Hold 'Em, and in general being ⛺ Outdoors
 
 ### What I Believe In
 - Be a [Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
